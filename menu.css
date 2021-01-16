@@ -1,0 +1,33 @@
+*{
+	margin: 1;
+	padding: 0;
+	width: 300;
+	
+
+}
+
+ul {
+	text-transform: uppercase;
+
+}
+
+ul li{
+	list-style: none;
+	background-color: #d6cbd3;
+
+}
+
+ul li a{
+	text-decoration: none;
+	font-size: 14;
+	font-family: arial;
+	color: #1e1e1e;
+	display:block;
+	padding:8px 17px;
+}
+
+ul li a:hover{
+	background-color: #555;
+	color: white;
+
+}
